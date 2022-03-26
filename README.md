@@ -5,8 +5,11 @@ This code demonstrates the Kriging-based transmission power optimization for spe
 
 # Note
 This code simplifies the system model and method from the original article.
+
 (We implemented the original code with C)
+
 The performances of this demonstration may be different in part from results in the article.
+
 For example...
 * Single SU transmitter (TCCN: multiple SUs)
 * Binning-based semivariogram modeling (TCCN: residual maximum likelihood)
