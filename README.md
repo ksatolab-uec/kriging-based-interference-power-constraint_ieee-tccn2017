@@ -13,7 +13,8 @@ The performances of this demonstration may be different in part from results in 
 For example...
 * Single SU transmitter (TCCN: multiple SUs)
 * Binning-based semivariogram modeling (TCCN: residual maximum likelihood)
-* ```kriging.py``` is based on https://github.com/ksatolab-uec/radiomap-construction
+
+```kriging.py``` is based on https://github.com/ksatolab-uec/radiomap-construction
 
 # How To Use
 This code works with the following command:
